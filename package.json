@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/splitproc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Split numeric proc values, ranges, and human-readable units.",
+  "bin": {
+    "splitproc": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/splitproc.git"
+  },
+  "homepage": "https://theworker02.github.io/splitproc/",
+  "keywords": [
+    "split",
+    "proc",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
